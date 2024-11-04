@@ -1,2 +1,1 @@
-# Majabo1970.github.io
-My Resume
+<h2 align="left">Hi there, I'm <a href="https://www.linkedin.com/in/ujwalkandi" target="_blank" rel="noopener noreferrer">Mariano</a> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
